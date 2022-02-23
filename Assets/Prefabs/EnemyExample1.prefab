@@ -7,17 +7,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -744853530597196924, guid: 4c3d48bd2e3b2444da4435522bda08fb, type: 3}
+      propertyPath: nextWaypointDistance
+      value: 0.1
+      objectReference: {fileID: 0}
     - target: {fileID: 3792370689253644469, guid: 4c3d48bd2e3b2444da4435522bda08fb, type: 3}
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3792370689253644469, guid: 4c3d48bd2e3b2444da4435522bda08fb, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -5.08
       objectReference: {fileID: 0}
     - target: {fileID: 3792370689253644469, guid: 4c3d48bd2e3b2444da4435522bda08fb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 1.47
       objectReference: {fileID: 0}
     - target: {fileID: 3792370689253644469, guid: 4c3d48bd2e3b2444da4435522bda08fb, type: 3}
       propertyPath: m_LocalPosition.z
@@ -53,7 +57,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4381786266790490309, guid: 4c3d48bd2e3b2444da4435522bda08fb, type: 3}
       propertyPath: m_Name
-      value: Enemy
+      value: EnemyExample1
       objectReference: {fileID: 0}
+    - target: {fileID: 8275878148127619201, guid: 4c3d48bd2e3b2444da4435522bda08fb, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e92527f6d0fe45342ab542b47346d45f, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4c3d48bd2e3b2444da4435522bda08fb, type: 3}
